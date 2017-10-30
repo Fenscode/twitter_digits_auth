@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="CustomDigitsTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+                <item name="colorPrimary">@color/colorPrimary</item>
+                <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+                <item name="colorAccent">@color/colorAccent</item>
+
+                <item name="android:textColorPrimary">#401e74</item>
+                <item name="android:textColorSecondary">@android:color/darker_gray</item>
+                <item name="android:windowBackground">@android:color/white</item>
+                <item name="android:textColorLink">#f24096</item>
+                <item name="dgts__accentColor">#401e74</item>
+                <item name="android:colorAccent">#f46315</item>
+        </style>
+</resources>
