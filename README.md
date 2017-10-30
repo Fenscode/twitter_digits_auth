@@ -1,3 +1,12 @@
+# Twitter Digit Authentication 
+## Screenshot:
+
+###### Home:
+<img src="https://github.com/Fenscode/twitter_digits_auth/blob/master/Screenshot/Screenshot_20161003-143929.png" width="180" height="300" />
+
+###### Phone number authentication:
+<img src="https://github.com/Fenscode/twitter_digits_auth/blob/master/Screenshot/Screenshot_20161003-143938.png" width="180" height="300" />
+
 ## What is the use of “Twitter digits authentication”?
 
 Email and password signup is a technology that has not been innovated on in decades.
@@ -125,14 +134,6 @@ Try it out!
 
 Run the app. You should see that after tapping on the "Use my phone number" button,
 your theme is applied to the Digits authentication screens.
-
-## Screenshot:
-
-###### Home:
-<img src="https://github.com/Fenscode/twitter_digits_auth/blob/master/Screenshot/Screenshot_20161003-143929.png" width="180" height="300" />
-
-###### Phone number authentication:
-<img src="https://github.com/Fenscode/twitter_digits_auth/blob/master/Screenshot/Screenshot_20161003-143938.png" width="180" height="300" />
 
 > ## Digits was shutdown on September 30, 2017. You can still migrate your users to Firebase Auth using the following guide.
 > (https://docs.fabric.io/android/digits/android-migration.html)
