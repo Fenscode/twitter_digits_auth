@@ -1,4 +1,6 @@
 # Twitter Digit Authentication 
+
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Twitter%20digits%20authentication-green.svg?style=flat )]( https://android-arsenal.com/details/1/6390 )
 ## Screenshot:
 
 ###### Home:
